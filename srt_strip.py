@@ -1,5 +1,3 @@
-import re
-import sys
 import argparse
 from collections import namedtuple
 
